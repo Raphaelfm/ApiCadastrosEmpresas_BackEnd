@@ -50,5 +50,6 @@ Agora execute o projeto digitando no terminal o comando "dotnet run".
 
 ## Após seguir os passos acima a api iniciará em seu navegador web da seguinte maneira:
 
-![image](https://github.com/Raphaelfm/ApiCadastrosEmpresas_BackEnd/assets/51061090/aacd6ff4-a273-4dc8-91fd-953f8ac737a8)
+![image](https://github.com/Raphaelfm/ApiCadastrosEmpresas_BackEnd/assets/51061090/bca1a5b3-d593-48e1-b029-76cafce962ff)
+
 
