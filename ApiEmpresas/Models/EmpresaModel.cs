@@ -8,7 +8,11 @@ namespace ApiEmpresas.Models
     {
         [Key]
         public int Id { get; set; }
-        public string? Name { get; set; }
+
+        [Column("Nome")]
+        public string? Nome { get; set; }
+
+        [Column("Descricao")]
         public string? Descricao { get; set; }
     }
 }

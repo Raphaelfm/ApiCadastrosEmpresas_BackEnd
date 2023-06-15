@@ -102,7 +102,7 @@ namespace ApiEmpresas.Controllers
                 return NotFound();
             }
 
-            empresaExistente.Name = empresa.Name;
+            empresaExistente.Nome = empresa.Nome;
             empresaExistente.Descricao = empresa.Descricao;
 
             _empresasRepository.AtualizarEmpresa(empresaExistente);
