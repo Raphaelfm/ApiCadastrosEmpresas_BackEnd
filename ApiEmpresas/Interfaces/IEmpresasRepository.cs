@@ -2,6 +2,9 @@
 
 namespace ApiEmpresas.Interfaces
 {
+    /// <summary>
+    /// Interface de Empresa Repository
+    /// </summary>
     public interface IEmpresasRepository
     {
         void AdicionarEmpresa(EmpresaModel empresa);
